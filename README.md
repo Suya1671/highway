@@ -8,7 +8,7 @@ There's both beginner & advanced tracks, so everyone is included. There'll be ne
 
 ## How to start
 
-If you're making a custom project, this is your place to start!
+If you're making a custom project, this is your place to add it to the gallery!
 
 *Remember to read through the [Project guidelines](https://highway.hackclub.com/advanced/project-guidelines).*
 
@@ -23,8 +23,6 @@ projects:
 ```
 
 We'll check if you have a README.md and JOURNAL.md file, and merge it after that. You're free to start working on your project! 
-
-If you're making an Advanced custom project (grant up to 350 USD, 10 points) - remember to pitch it in #highway-pitstop first.
 
 ## How to submit
 
